@@ -1,6 +1,6 @@
 # Terraform Beginner Bootcamp 2023
 
-## Semantic Versioning
+## Semantic Versioning :monkey:
 In this project is using scmentic versioning [semver.org](https://semver.org/)
 Given a version number **MAJOR.MINOR.PATCH**, increment the:
 - **MAJOR** version when you make incompatible API changes
