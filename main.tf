@@ -9,6 +9,13 @@ terraform {
       version = "5.17.0"
     }
   }
+
+  cloud {
+   organization = "freestylecoder"
+   workspaces {
+     name = "terra-house-1"
+   }
+  }
 }
 
 provider "random" {
